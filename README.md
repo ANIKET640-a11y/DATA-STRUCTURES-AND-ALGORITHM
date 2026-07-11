@@ -28,6 +28,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -36,6 +37,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -49,6 +51,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -96,4 +99,5 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
