@@ -19,6 +19,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -111,4 +112,8 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0101-symmetric-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0226-invert-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
