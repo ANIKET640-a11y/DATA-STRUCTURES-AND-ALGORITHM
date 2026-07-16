@@ -77,6 +77,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -98,6 +99,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0344-reverse-string) |
 ## Stack
@@ -116,4 +118,8 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
