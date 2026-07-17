@@ -54,6 +54,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0938-range-sum-of-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -82,6 +83,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -95,6 +97,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -126,6 +129,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +146,8 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
