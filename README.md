@@ -98,6 +98,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
@@ -109,6 +110,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -164,4 +167,12 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
