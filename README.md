@@ -65,6 +65,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0099-recover-binary-search-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0938-range-sum-of-bst) |
@@ -97,6 +98,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0088-merge-sorted-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -159,6 +161,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -175,6 +178,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
