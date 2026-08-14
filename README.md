@@ -17,6 +17,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0347-top-k-frequent-elements](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0344-reverse-string](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
