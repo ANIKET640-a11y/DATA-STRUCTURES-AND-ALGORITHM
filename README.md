@@ -29,6 +29,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0012-integer-to-roman) |
+| [0131-palindrome-partitioning](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -91,6 +92,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0131-palindrome-partitioning) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -222,4 +224,5 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
