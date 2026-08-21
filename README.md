@@ -24,6 +24,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -94,6 +95,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0131-palindrome-partitioning) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -241,4 +243,8 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
