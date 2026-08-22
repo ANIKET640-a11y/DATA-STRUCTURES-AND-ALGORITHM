@@ -27,6 +27,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0070-climbing-stairs](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
