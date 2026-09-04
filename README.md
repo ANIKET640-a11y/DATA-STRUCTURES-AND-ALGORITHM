@@ -125,6 +125,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3903-smallest-stable-index-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3903-smallest-stable-index-i) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3903-smallest-stable-index-i) |
 ## Queue
 |  |
 | ------- |
