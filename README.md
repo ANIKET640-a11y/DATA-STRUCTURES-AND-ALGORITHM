@@ -49,6 +49,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0409-longest-palindrome](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1189-maximum-number-of-balloons) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -122,6 +123,7 @@ This repository contains my solutions to various DSA problems from platforms lik
 | [0070-climbing-stairs](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0131-palindrome-partitioning) |
+| [0940-distinct-subsequences-ii](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0940-distinct-subsequences-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ANIKET640-a11y/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
